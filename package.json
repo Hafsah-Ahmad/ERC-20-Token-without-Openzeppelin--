@@ -1,0 +1,13 @@
+{
+  "name": "shitzu-token",
+  "version": "1.0.0",
+  "description": "Shitzu (shit) custom ERC20-like token built from scratch without OpenZeppelin",
+  "scripts": {
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js --network hardhat"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
