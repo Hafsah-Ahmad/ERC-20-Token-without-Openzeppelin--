@@ -32,7 +32,7 @@ Token Details
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/shitzu-token.git
+git clone https://github.com/Hafsah-Ahmad/shitzu-token.git
 cd shitzu-token
 npm install
 
