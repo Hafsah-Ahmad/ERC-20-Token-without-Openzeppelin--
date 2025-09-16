@@ -33,7 +33,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Hafsah-Ahmad/ERC-20-TOKEN-WITHOUT-OPENZEPPELIN
-cd shitzu-token
+cd ERC-20-TOKEN-WITHOUT-OPENZEPPELIN
 npm install
 
 -Compile the contract:
