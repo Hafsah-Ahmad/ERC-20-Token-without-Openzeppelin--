@@ -63,7 +63,7 @@ name, symbol, decimals → token metadata
 
 totalSupply → circulating supply
 
-cap → maximum supply (20,000,000 SHIT)
+cap → maximum supply (20,000,000 )
 
 balances → mapping of account balances
 
